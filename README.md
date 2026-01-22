@@ -55,15 +55,15 @@ The main objectives of this testing project are:
 | Metric | Count |
 |------|------|
 | Total Test Cases | 17 |
-| Test Cases Passed | 13 |
-| Test Cases Failed | 4 |
+| Test Cases Passed | 10 |
+| Test Cases Failed | 7 |
 
 # 🐞 Defect Summary
 
 | Severity | Count |
 |--------|------|
 | High | 3 |
-| Medium | 1 |
+| Medium | 2 |
 | Low | 0 |
 
 Key Defects Identified:
